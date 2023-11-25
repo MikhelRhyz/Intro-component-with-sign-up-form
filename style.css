@@ -111,6 +111,10 @@ span {
   background-color: hsla(154, 59%, 51%, 50%);
 }
 
+btn-claim:active {
+  background-color: background-color: var(--Green);
+}
+
 .terms-services {
   font-size: 10px;
   text-align: center;
